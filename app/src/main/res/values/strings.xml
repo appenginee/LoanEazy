@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">loanzy</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="permission_desc_login">Loan Eazy need Location permission , So allow it to work properly. Thank You!</string>
+    <string name="permission_title">Permission Denied!</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="text">
+        <item>Instant loan in 3 mins Powered by DECIMUS FINANCIAL LIMITED</item>
+        <!--<item>Instant loan in 3 mins Powered by \"NSMK Investments Private Limited\"</item>-->
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_login">LOGIN</string>
+
+    <string name="my_integral">My points</string>
+
+    <!--i我的优惠券-->
+    <string name="my_coupon">My coupon</string>
+
+    <!--i我扣除优惠券-->
+    <string name="my_deduction_coupon">My deduction coupon</string>
+
+    <!--i我的借款-->
+    <string name="my_loan">Confirmation of Loan</string>
+    <string name="info_loan_history">Loan History</string>
+
+    <!--i帮助中心-->
+    <string name="help_center">Help center</string>
+
+    <!--i我的银行卡-->
+    <string name="my_bank">Update Bank Account </string>
+
+    <!--关于我们-->
+    <string name="about_us">About us</string>
+
+    <!--帮助中心-->
+    <string name="help">Help</string>
+
+    <!--隐私政策-->
+    <string name="privacy_policy">Privacy agreement</string>
+
+
+    <!--i联系我们-->
+    <string name="contact_us">Contact customer service</string>
+
+    <!--i反馈-->
+    <string name="feedback">feedback</string>
+
+    <!--退出登录-->
+    <string name="log_out">onlineQA</string>
+
+    <!-- 点击查询 -->
+    <string name="click_consult">Klik untuk berkonsultasi</string>
+
+    <!--贷款信息-->
+    <string name="loan_information">Informasi Pinjaman</string>
+
+    <string name="activity">Activity</string>
+    <string name="contact_person_info">Contact Person Info</string>
+
+    <!--基本信息-->
+    <string name="basic_info">Basic Info</string>
+
+    <!--个人信息-->
+    <string name="KYC_info">KYC Info</string>
+
+    <!--已审核-->
+    <string name="verified">verified</string>
+
+    <!--没有审核-->
+    <string name="not_certified">not certified</string>
+
+    <!--联系人信息-->
+    <string name="contact_info">Contact Info</string>
+
+    <!--工作信息-->
+    <string name="work_info">Work Info</string>
+
+
+    <!--i低息-->
+    <string name="Low_interest">Low interest</string>
+
+    <!--i提交信息-->
+    <string name="submit_Info">Submit Info</string>
+
+    <!--i选择贷款-->
+    <string name="get_credit">Get Credit</string>
+
+    <!--i贷款-->
+    <string name="get_money">Get Money</string>
+
+    <!-- 高金额-->
+    <string name="High_amount">High amount</string>
+
+    <!-- i选择贷款金额-->
+    <string name="choose_your_loan_amount">You are eligible to avail loans upto:</string>
+
+    <string name="index_title_tex">Loan Eazy</string>
+    <string name="Rapid_lending">Rapid lending</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="request_permission">The Loan Eazy app needs camera permission. Please allow it to work properly!.</string>
+
+
+    <!--i首页申请按钮-->
+    <string name="index_but_submit">APPLY</string>
+
+    <string name="dollar_sign">₹</string>
+
+    <string name="to_borrow_time">To borrow : 7 days</string>
+    <string name="loan">Loan</string>
+    <string name="certification">Certification</string>
+    <string name="mine">Profile</string>
+
+    <!--faceBook-->
+    <string name="faceBook">FACEBOOK</string>
+
+    <!--faceBook-->
+    <string name="g_mail">G-MAIL</string>
+    <string name="or">or</string>
+
+    <string name="login_via_password">Login via password</string>
+    <string name="login_via_otp">Register/Login via otp</string>
+    <string name="country_code">+91</string>
+    <!--i请输入你的手机号-->
+    <string name="enter_phone_number">Enter your mobile number</string>
+
+    <!--i忘记密码-->
+    <string name="forget_password">Forgot password ？</string>
+
+    <!--i未注册-->
+    <string name="unregistered">Unregistered？</string>
+    <!--i输入密码-->
+    <string name="enter_password1">Enter password</string>
+
+    <!--i输入密码-->
+    <string name="enter_password2">Enter new password</string>
+
+    <!--i请确认新密码-->
+    <string name="confirm_password">Confirm password</string>
+
+
+    <!--i请确认新密码-->
+    <string name="confirm_password1">Re-enter password</string>
+
+    <!--i请确认新密码-->
+    <string name="confirm_password2">Confirm new password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Registered</string>
+    <string name="rapid_enrollment">Quick login</string>
+    <string name="SMS_quick_login">SMS quick login</string>
+    <string name="enter_OTP">Enter OTP</string>
+    <string name="get_OTP">Get OTP</string>
+    <string name="confirm_button">CONFIRM</string>
+    <string name="enter_password">Create login password</string>
+    <string name="enter_fname">Enter First Name</string>
+    <string name="enter_lname">Enter Last Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_userid">Create User Id</string>
+    <string name="info_enter_emial_id">enter valid email id</string>
+
+    <string name="permission_camera_storage_kyc">LOAN EAZY need Camera and Storage permission , please allow it work properly.</string>
+    <string name="permission_read_sms">LOAN EAZY need Read SMS for reading OTP, please allow it work properly.</string>
+    <string name="permission_read_all">LOAN EAZY need the permission , please allow it work properly.</string>
+    <string name="settings">Settings</string>
+    <string name="verification_status">Verification Status</string>
+    <string name="google_client_id">779812962174-7huocduml6aundoco8mb6nsbc70t7eep.apps.googleusercontent.com</string>
+    <string name="google_client_secrets">27X-r0WdArzoAagDvhMYnZ-L</string>
+    <string name="info_no_internet">No Internet Connection.</string>
+    <string name="info_loan_amount">Loan Amount</string>
+    <string name="info_tenure">Tenure</string>
+    <string name="info_disbursal_amount">Disbursal Amount</string>
+    <string name="info_processing_fee">Processing Fee</string>
+
+    <string name="some_error_occurred">Some error occurred...</string>
+    <string name="transaction_cancelled_by_user">Transaction cancelled by user</string>
+    <string name="info_verified">Verified</string>
+    <string name="info_not_verified">not verified</string>
+
+
+</resources>

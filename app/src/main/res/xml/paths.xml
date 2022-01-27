@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external_files"
+        path="." />
+    <cache-path
+        name="data/data/user/0/com.loan.loaneazy/cache/documents/"
+        path="." />
+
+
+</paths><!--static Date currentTime;-->
+
+    <!-- todo path1 :: /storage/emulated/0
+    todo Path2 :: /storage/emulated/0/Android/data/com.ipsmart.ipsmartess/files-->

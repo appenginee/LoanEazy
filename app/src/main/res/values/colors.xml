@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#019DF2</color>
+    <color name="purple_700">#0278B8</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#019DF2</color>
+    <color name="colorPrimaryDark">#0278B8</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorAccent2">#306A33</color>
+    <color name="control_background">#019DF2</color>
+
+    <!--<color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorAccent2">#306A33</color>-->
+
+    <!--
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>-->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="activity_bgd">#f6f6fa</color>
+    <color name="text_3">#333333</color>
+
+
+    <!--线颜色-->
+    <color name="line_color">#979797</color>
+
+    <!--线颜色-->
+    <color name="line_color1">#f6f6f6</color>
+
+    <!--线颜色-->
+    <color name="line_color2">#cccccc</color>
+
+
+    <color name="text_c">#cccccc</color>
+    <!-- 字体颜色000000-->
+    <color name="text_00">#000000</color>
+    <!-- 字体颜色#F37E23-->
+    <color name="text_f3">#F37E23</color>
+    <!-- 字体颜色#10B2E8-->
+    <color name="text_10">#10B2E8</color>
+    <!-- 字体颜色#F66D29-->
+    <color name="text_f6">#F66D29</color>
+
+    <color name="placeholder">#33000000</color>
+
+
+
+    <!-- 字体颜色#FB5555-->
+    <color name="text_fb">#FB5555</color>
+    <!-- 字体颜色666666-->
+    <color name="text_6">#666666</color>
+    <!-- 字体颜色ffffff-->
+    <color name="text_white">#ffffff</color>
+    <!-- 字体颜色999999-->
+    <color name="text_9">#999999</color>
+    <!-- 字体颜色cccccc-->
+
+    <color name="main_radiotex_false_color">#999999</color>
+    <color name="main_radiotex_true_color">#393232</color>
+    <color name="bg_3c">#3C5999</color>
+    <color name="bg_d5">#D44638</color>
+    <color name="lightWhite">#F5F5F5</color>
+    <color name="grey_light_secondary">#cccccc</color>
+    <color name="grey_light_third">#CCFFCC</color>
+    <color name="grey_light_tertiary">#eeeeee</color>
+    <color name="rect_color">#3C5999</color>
+    <color name="color_people">#0093C3</color>
+    <color name="fc_nav_gray">#ff919bac</color>
+
+</resources>
